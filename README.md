@@ -18,11 +18,8 @@ Course Link: http://im.itu.edu.pk/deep-learning-spring-2020/
 
 
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UgKxI8EfBf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P1BICZbX25U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[Pong](https://www.youtube.com/embed/UgKxI8EfBf4) 
+[Breakout](https://www.youtube.com/embed/P1BICZbX25U)
 
 <h3>
 <center>Average Reward Over Time</center></h3>
