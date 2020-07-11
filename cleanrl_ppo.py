@@ -1,3 +1,9 @@
+"""
+Code for forward policy learning. Taken From clean RL repo. 
+
+Modified to include GAIL.
+"""
+
 import time
 import pickle
 import numpy as np
